@@ -1,0 +1,25 @@
+body {
+    font-family: 'Karla', sans-serif;
+    color: #545353;
+}
+
+.social-links {
+    font-size: 2.5em;
+    margin-top: .8em;
+}
+
+.social-links a {
+    color: #3a3a3a;
+    margin: 0 .5em;
+}
+
+.social-links a:hover i {
+    color: black;
+    transition: .5s;
+    cursor: pointer;
+    transform: scale(1.15);
+}
+
+.btn.learn-more {
+    background: #dae4e1;
+}
